@@ -1,0 +1,7 @@
+com\scientificgames\services\StudentServiceImpl.class
+com\scientificgames\bo\IStudent.class
+util\StudentSingleton.class
+com\scientificgames\services\StudentResource.class
+com\scientificgames\bo\StudentClasses.class
+com\scientificgames\app\StudentApplication.class
+com\scientificgames\bo\Student.class
